@@ -4,7 +4,7 @@ spring:
   cloud:
     config:
       enabled: true
-      uri: http://localhost:8081
+      uri: http://20.197.181.20:8081
       username: root
       password: 123
   jpa:
